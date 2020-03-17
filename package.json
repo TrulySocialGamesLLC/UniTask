@@ -1,0 +1,16 @@
+{
+  "name": "com.cysharp.unitask",
+  "version": "1.2.0",
+  "displayName": "UniTask",
+  "description": "Reactive Extensions for Unity",
+  "unity": "2018",
+  "unityRelease": "",
+  "keywords": [
+  ],
+  "author": {
+    "name": "Cysharp",
+    "email": "",
+    "url": ""
+  },
+  "type": "library"
+}
