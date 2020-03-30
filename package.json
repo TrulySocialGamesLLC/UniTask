@@ -1,6 +1,6 @@
 {
   "name": "com.cysharp.unitask",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "displayName": "UniTask",
   "description": "Reactive Extensions for Unity",
   "unity": "2018.1",
